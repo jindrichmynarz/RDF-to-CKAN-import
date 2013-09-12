@@ -1,0 +1,14 @@
+{
+  "JENA_HOME" : "",
+  "ckanInstances" : [
+    {
+      "api" : "",
+      "group" : "",
+      "key" : "",
+      "lang" : ""
+    }
+  ],
+  "sparql" : {
+    "endpoint" : ""
+  }
+}

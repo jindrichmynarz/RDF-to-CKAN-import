@@ -1,0 +1,21 @@
+{
+  "http://www.opendefinition.org/licenses/odc-pddl" : "odc-pddl",
+  "http://opendatacommons.org/licenses/pddl/1-0/" : "odc-pddl",
+  "http://opendatacommons.org/licenses/pddl/1-0" : "odc-pddl",
+
+  "http://www.opendefinition.org/licenses/odc-odbl" : "odc-odbl",
+  "http://www.opendefinition.org/licenses/odc-by" : "odc-by",
+  "http://www.opendefinition.org/licenses/cc-zero" : "cc-zero",
+  
+  "http://www.opendefinition.org/licenses/cc-by" : "cc-by",
+  "http://creativecommons.org/licenses/by/3.0/lu/" : "cc-by",
+  
+  "http://www.opendefinition.org/licenses/cc-by-sa" : "cc-by-sa",
+  "http://www.opendefinition.org/licenses/gfdl" : "gfdl",
+  "http://reference.data.gov.uk/id/open-government-licence" : "uk-ogl",
+  
+  "http://creativecommons.org/licenses/by-nc/2.0/" : "cc-nc",
+  "http://creativecommons.org/licenses/by-nc/3.0/" : "cc-nc",
+
+  "http://creativecommons.org/licenses/by-nc-nd/3.0/" : "cc-nd"
+}
